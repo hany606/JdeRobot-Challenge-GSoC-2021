@@ -18,7 +18,7 @@ This repository for JdeRobot Challenges for Google Summer of Code 2021
 
 [x] Simple academey exercise
 
-[ ] Academey Exercise related to the the proposed oppourtunity
+[ ] Academey Exercise related to the the proposed oppourtunity (https://jderobot.github.io/RoboticsAcademy/exercises/MobileRobots/single_robot_amazon_warehouse/, https://jderobot.github.io/RoboticsAcademy/exercises/MobileRobots/multi_robot_amazon_warehouse/)
 
 [ ] Check compatibility for the old exercise with the current version
 
